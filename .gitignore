@@ -1,0 +1,12 @@
+# Ignore all .exe files in the entire repo
+*.exe
+
+# Ignore tempCodeRunnerFile from VS Code
+tempCodeRunnerFile*
+
+# Optional: Ignore object files and compiled code
+*.o
+*.out
+
+# Optional: Ignore VS Code settings (if you don't want to share them)
+.vscode/
